@@ -1,3 +1,4 @@
+/admin/admin_index.asp
 /robots.txt 
 /wp/login.asp
 /Admin/login/
