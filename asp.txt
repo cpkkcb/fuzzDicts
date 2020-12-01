@@ -1,3 +1,4 @@
+/data/%23aspcms252.asp
 /admin/admin_index.asp
 /robots.txt 
 /wp/login.asp
