@@ -1,3 +1,4 @@
+/jmportal/login.do
 /druid/index.html
 /swagger/
 /api/swagger/
