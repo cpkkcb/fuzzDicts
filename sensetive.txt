@@ -1,3 +1,5 @@
+/status
+/graph
 /Purview/GroupPurviewIndex
 /Home/main
 /system/
