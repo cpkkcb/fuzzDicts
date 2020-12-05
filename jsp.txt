@@ -1,3 +1,4 @@
+/ueditor/jsp/config.json
 /jmportal/login.do
 /druid/index.html
 /swagger/
