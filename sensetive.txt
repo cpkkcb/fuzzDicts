@@ -1,3 +1,4 @@
+/zabbix
 /status
 /graph
 /Purview/GroupPurviewIndex
