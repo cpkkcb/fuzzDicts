@@ -1,3 +1,4 @@
+/zabbix
 /xprober.php
 /robots.txt
 /1.php 
