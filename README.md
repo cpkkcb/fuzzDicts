@@ -9,5 +9,4 @@
 密码字典：pass_kill.txt属于小字典，适用于存在waf等情况。pass.txt是常见密码<br>
 
 参数字典：parameter.txt，常用于接口fuzzing测试<br>
-
-公共字典：sensetive.txt 适用于任何环境的路径字典<br>
+通用字典：filename.txt 适用于任何环境的路径字典<br>
