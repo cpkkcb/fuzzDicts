@@ -280,7 +280,6 @@
 /admin/editor/admin_login.php
 /eWebEditor/db/ewebeditor.mdb
 /admin/eWebEditordb/ewebeditor.mdb
-/robots.txt
 /wwwroot.rar
 /wwwroot.zip
 /www.rar
