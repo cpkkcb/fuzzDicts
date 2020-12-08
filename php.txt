@@ -4,6 +4,7 @@
 /1.php 
 /u.php
 /i.php
+/l.php
 /server-status
 /adm1n.php
 /spy.php
