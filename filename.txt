@@ -1,8 +1,10 @@
+main
+script
 zabbix
 status
 graph
 Purview/GroupPurviewIndex
-Home/main
+Home/
 system/
 .ssh/authorized_keys
 back.sql
