@@ -1,3 +1,4 @@
+gm
 main
 script
 zabbix
