@@ -1,3 +1,4 @@
+rsAppServer/login
 rsSurvey/login
 newstyle/login.html
 geoserver
