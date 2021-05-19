@@ -1,3 +1,7 @@
+rsSurvey/login
+newstyle/login.html
+geoserver
+admin/index/login.html
 backend/site/login
 work
 static/plugin/ueditor1_4_3
