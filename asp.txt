@@ -1,3 +1,4 @@
+/user_login.asp
 /background/adminLogin.aspx
 /adminLogin.aspx
 /Manage/Login.aspx
@@ -618,7 +619,6 @@
 /user_friends.asp
 /user_help.asp
 /user_index.asp
-/user_login.asp
 /user_message.asp
 /user_messages.asp
 /user_setting.asp
@@ -1812,13 +1812,6 @@
 /nm09servu.aspx
 /bbs/j0qyservu.aspx
 /acxgservu.aspx
-/admin/z9v8servu.aspx
-/ad/z9v8servu.aspx
-/manage/z9v8servu.aspx
-/uploadimage/z9v8servu.aspx
-/uploadfiles/z9v8servu.aspx
-/api/z9v8servu.aspx
-/upload/z9v8servu.aspx
 /user/servu.aspx
 /api/servu.aspx
 /image/servu.aspx
