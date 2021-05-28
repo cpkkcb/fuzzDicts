@@ -16,6 +16,8 @@ administrator/components/com_contenthistory/models/history.php
 index.php?m=search&c=index&a=public_get_suggest_keyword&url=asdf&q=../../
 spip.php
 syssite/install/ini_setup.php
+kindeditor/php/upload_json.php
+kindeditor/php/upload_json.php?dir=file
 admin888/admin.php
 fonts/login.php
 search/index.php?key=1&myord=1
