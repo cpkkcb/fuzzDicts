@@ -21,6 +21,9 @@ package.json
 FCKeditor/editor/filemanager/browser/default/browser.html?Type=Image&Connector=connectors/jsp/connector.jsp
 fccmsres/admin/default.jsp
 login.jsp
+ewebeditor/admin/upload.jsp
+kindeditor/jsp/upload_json.jsp
+kindeditor/jsp/upload_json.jsp?dir=file 
 luntanLogin.jsp
 domain_manage.jsp
 s8main.jsp
