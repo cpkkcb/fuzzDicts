@@ -1,3 +1,4 @@
+robots.txt
 #/dashboard
 rsSurvey/main
 rsAppServer/login
