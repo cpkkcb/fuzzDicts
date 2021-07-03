@@ -4,6 +4,6 @@
 脚本语言类字典：asp.txt/php.txt/jsp.txt/asp.txt，内容包括但不限于常见路径、后门、常见系统漏洞地址等<br>
 用户名字典：xing.txt、ming.txt来自公安部数据，内容为汉字，name.txt，包含常见系统用户名和人名内容为字母<br>
 密码字典：pass_kill.txt属于小字典，适用于存在waf等情况。pass.txt是常见密码<br>
-脚本字典：js.txt 20210528同步到sensetive文本<br>
+常见路径字典：sensetive文本<br>
 参数字典：parameter.txt，常用于接口fuzzing测试<br>
 
