@@ -1,12 +1,16 @@
 master
 admin
 测试
-testid
+id
 adminroot
 test01
+test02
+test03
 kefuadmin
 system
 test
+test1
+test2
 admin1
 root
 administrator
