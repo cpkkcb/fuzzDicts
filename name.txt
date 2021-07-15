@@ -1,3 +1,8 @@
+worker
+worker01
+worker02
+worker1
+worker2
 master
 admin
 测试
