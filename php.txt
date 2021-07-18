@@ -1,3 +1,5 @@
+specialGame/phpsso_server/
+specialGame/phpcms/modules/admin/
 data/admin/ver.txt
 zabbix
 xprober.php
