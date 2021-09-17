@@ -1,3 +1,8 @@
+ssoserver/login/
+files/download/
+Content/
+/casServer
+/fileServer
 /.bash_history
 /.ssh/authorized_keys
 /.bashrc
@@ -145,6 +150,7 @@ temp.temp
 .htaccess.bak
 .htpasswd
 .htpasswd.bak
+.idea/
 .idea/modules.xml
 .idea/WebServers.xml
 .idea/workspace.xml
@@ -200,7 +206,6 @@ temp.temp
 2.txt
 22.php
 _admin
-_async/AsyncResponseServiceSoap12
 _cat/
 _cat/indices
 _config
