@@ -1,3 +1,5 @@
+index3.php
+phpinfo.php
 specialGame/phpcms/modules/admin/
 p.php
 data/admin/ver.txt
