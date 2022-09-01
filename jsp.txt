@@ -1,5 +1,9 @@
+console
+jmx-console
+index.action
 jsp-examples/
 servlets-examples/
+examples/
 webdav/
 h2console
 login/toLogin.do
@@ -674,16 +678,6 @@ admin/web.jsp
 admin/web_login.jsp
 admin/webeditor/admin_login.jsp
 admin/wolf.jsp
-admin/xh_login.jsp
-admin/ydxzdate.jsp
-admin/yns_login.jsp
-admin/z9v8config.jsp
-admin/z9v8conn.jsp
-admin/z9v8login.jsp
-admin/z9v8md5.jsp
-admin/z9v8myup.jsp
-admin/z9v8upfile_flash.jsp
-admin/z9v8uploadPic.jsp
 admin1.jsp
 admin1/Admin_Login.jsp
 admin123.jsp
@@ -744,15 +738,12 @@ mtc.jsp
 myxx.jsp
 no.jsp
 one.jsp
-oracle.jsp
-oracle脱裤脚本.jsp
 paxmac.jspx
 queryDong.jsp
-silic webshell.jsp
+silicwebshell.jsp
 spjspshell.jsp
 spyjsp2010.jsp
 style.jsp
-suiyue.jsp
 sys3.jsp
 system.jsp
 system.jsp.jsp
@@ -766,13 +757,7 @@ ui/#/login.jsp
 up.jsp
 up_win32.jsp
 utils.jsp
-ver008.jsp
 warn.jsp
 web.jsp
 webshell-nc.jsp
-xia.jsp
-xm.jsp
-yjy.jsp
 zend.jsp
-zval.jsp
-zx.jsp
