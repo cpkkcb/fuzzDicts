@@ -1,5 +1,13 @@
-DL.html
-ssoserver/login/
+/webhis
+/webcomm
+/api/sys/mLogin
+/check_web
+/graphql
+/graphiql
+/service
+/webservice
+/ibm/console
+/ssoserver/login/
 files/download/
 Content/
 /casServer
@@ -10,6 +18,7 @@ Content/
 /env
 /actuator/env
 /trace
+/httptrace
 /actuator/httptrace
 /jolokia
 /actuator/jolokia
