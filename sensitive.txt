@@ -1,3 +1,8 @@
+/enterpriseportal
+/eims
+/classes/Users.php
+/api/blade-user/
+/api/
 index/menu
 menu/index
 console
