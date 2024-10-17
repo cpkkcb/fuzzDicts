@@ -1,3 +1,4 @@
+/config.properties
 /enterpriseportal
 /eims
 /classes/Users.php
