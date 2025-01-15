@@ -1,3 +1,4 @@
+/api/aliyunconfig
 /bussines
 /test.html
 /bkp
