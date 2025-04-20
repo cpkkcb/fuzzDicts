@@ -1,3 +1,4 @@
+/..;/v3/api-docs
 /orgapi/
 /organization
 /api/aliyunconfig
