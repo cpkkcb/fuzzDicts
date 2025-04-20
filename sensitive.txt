@@ -1,3 +1,5 @@
+/orgapi/
+/organization
 /api/aliyunconfig
 /bussines
 /test.html
